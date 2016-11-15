@@ -13,6 +13,11 @@ var ecmaSix = {
 
 	run: function(){
 
+	},
+
+	//es6 params
+	nameBuilder: function (firstName = 'john', lastnName = 'doe'){
+		console.log(firstName, ' ',lastnName);
 	}
 };
 
