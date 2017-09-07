@@ -1,0 +1,28 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "ES6 Study",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmcnaughGitHub/Javascript-E6-Test.git"
+  },
+  "keywords": [
+    "ES6",
+    "Babel",
+    "Javascript"
+  ],
+  "author": "Raymond R-Mcnaught",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmcnaughGitHub/Javascript-E6-Test/issues"
+  },
+  "homepage": "https://github.com/rmcnaughGitHub/Javascript-E6-Test#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
