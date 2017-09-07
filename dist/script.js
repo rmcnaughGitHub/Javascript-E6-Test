@@ -8,12 +8,19 @@
 var ecmaSix = window.ecmaSix || {};
 
 var ecmaSix = {
+
+	theText: document.getElementById('theText'),
+
 	init: function init() {
 		var nums = [1, 2, 3];
 		var doubleNums = nums.map(function (e) {
 			return e * 2;
 		});
+		//
+		theText.innerHTML = 'nameBuilder ' + doubleNums;
 		console.log('doubleNums ', doubleNums);
+		//
+		return doubleNums;
 	},
 
 	run: function run() {},
