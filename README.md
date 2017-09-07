@@ -4,6 +4,7 @@
 
 #--out-file  = So -out-file just means that this is the file where our new ES5 code is going to be deposited. 
 <br>
+<br>http://www.javascripttutorial.net/es6/setting-es6-project-using-babel/
 <br>ES6 usage with Babel
 <br>
 <br>1) First, you create a directory to store the project files: npm init
