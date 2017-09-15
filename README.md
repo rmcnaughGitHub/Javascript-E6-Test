@@ -27,3 +27,7 @@
 <br>
 <br>
 <br>8) Now, you can run the build command again:  npm run build
+<br>
+<br>9) A few articles:
+<br>http://www.javascripttutorial.net/es6/es6-modules/
+<br>http://vegibit.com/es6-arrow-function-tutorial/
